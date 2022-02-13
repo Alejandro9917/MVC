@@ -13,7 +13,5 @@ A brief description of what this project does and who it's for
 - Miguel Alejandro Meléndez Martínez: [@Linareswst](https://github.com/Linareswst)
 
 
-##Infografía
-
 ![MVC1](https://i.imgur.com/zHNWFfZ.png)
 ![MVC2](https://i.imgur.com/r6k54EC.png)
