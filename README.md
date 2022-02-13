@@ -3,7 +3,7 @@
 
 ## Vídeo explicación
 - [Vídeo explicación](https://udbedu-my.sharepoint.com/:v:/g/personal/mm180363_alumno_udb_edu_sv/EeNC2QquABVFnYDjwY9JlgkBa0rgrnJ8F2Lzi6QjQqIL1A?e=qwZNI7)
-- (Si no deja ver el video en vista previa, descargarlo)
+(Si no deja ver el video en vista previa, descargarlo)
 
 
 ## Integrantes
